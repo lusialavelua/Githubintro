@@ -1,0 +1,7 @@
+Shopping:
+
+Bread
+Water
+Oranges
+Apple
+Toothpaste
